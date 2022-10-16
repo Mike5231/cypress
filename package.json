@@ -1,0 +1,17 @@
+{
+  "name": "automatizacion",
+  "version": "1.0.0",
+  "description": "Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run",
+    "testChrome": "npm run test -- --browser chrome",
+    "testDashboard": "npm run test -- --browser chrome --record --key 47a82cad-a18d-4a73-866a-151517e4b579"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.4.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}

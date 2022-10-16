@@ -1,0 +1,14 @@
+{
+  "name": "David",
+  "lastname": "Suap",
+  "email": "Cypress@gmail.com",
+  "sex": "Male",
+  "phone": "3565659852",
+  "birthday": ["December", "1990", "31"],
+  "subjects": "English",
+  "hobbies": ["Sports", "Music"],
+  "imagen": "my-image.jpg",
+  "address": "Direccion 19#18",
+  "state": "NCR",
+  "city": "Delhi"
+}
